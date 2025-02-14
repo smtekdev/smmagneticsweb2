@@ -10,7 +10,7 @@ Version: 1.0.0
 :root {
   --body: #fff;
   --black: #000;
-  --white: #fff;
+  --white: #931A21;
   --theme: #EC2D2D;
   --theme2: #FF9900;
   --theme3: #FF9900;
@@ -20,7 +20,7 @@ Version: 1.0.0
   --border: #8888884d;
   --border2: #272727;
   --bg: #0E0E0E;
-  --bg2: #191919;
+  --bg2: #ffffff;
   --bg3: #ffffff33;
   --color-gradient-1: linear-gradient(90deg, #FF9900  0%,    #931A21 100%);
   --color-gradient-2: linear-gradient(102.27deg, #0E0E0E 0%, rgba(35, 35, 35, 0.29) 100%);
@@ -868,7 +868,7 @@ input.main-search-input::placeholder {
   display: inline-block;
   font-size: 16px;
   font-weight: 500;
-  color: var(--white);
+  color: #ffffff;
   padding: 30px 0;
   text-align: left;
   position: relative;
